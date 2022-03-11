@@ -1,4 +1,4 @@
-
+//LED pin defination
 int pin =26;
       
 void setup() {
